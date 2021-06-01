@@ -1,3 +1,3 @@
 ### Bonjour 👋
 
-I’m a UX person, learning Game Dev with [Godot](https://godotengine.org/) !
+I’m a UX researcher, tinkering here and there !
